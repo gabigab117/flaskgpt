@@ -1,6 +1,6 @@
 # flaskgpt
- 
-Here the idea is to use Flask and the OpenAI API.
+Original project ==> https://github.com/DocstringFr/FlaskGPT.git <br>
+Here the idea is to use Flask and the OpenAI API. <br>
 Also, we use poetry.
 
 # How to use TailwindCSS
