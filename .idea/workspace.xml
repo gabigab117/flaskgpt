@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8469c9e1-26a9-4741-b12b-9ddc25ae26e9" name="Changes" comment="first commit with 1 route">
-      <change afterPath="$PROJECT_DIR$/static/src/css/input.css" afterDir="false" />
+    <list default="true" id="8469c9e1-26a9-4741-b12b-9ddc25ae26e9" name="Changes" comment="implementation of the project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/src/css/input.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/src/css/input.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,11 +95,23 @@
       <option name="project" value="LOCAL" />
       <updated>1694471805033</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="implementation of the project">
+      <option name="closed" value="true" />
+      <created>1694474374098</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694474374098</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit with 1 route" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit with 1 route" />
+    <MESSAGE value="implementation of the project" />
+    <option name="LAST_COMMIT_MESSAGE" value="implementation of the project" />
   </component>
 </project>
