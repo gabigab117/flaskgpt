@@ -32,7 +32,7 @@ def prompt():
 
 def event_stream(conversation: list[dict]) -> str:
     response = openai.ChatCompletion.create(
-        model="gpt-3.5-turbo",
+        model="gpt-4",
         messages=conversation,
         stream=True
     )

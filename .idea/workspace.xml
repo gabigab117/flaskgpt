@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8469c9e1-26a9-4741-b12b-9ddc25ae26e9" name="Changes" comment="app finished">
+    <list default="true" id="8469c9e1-26a9-4741-b12b-9ddc25ae26e9" name="Changes" comment="workspace">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -132,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694642751109</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="workspace">
+      <option name="closed" value="true" />
+      <created>1694645315290</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1694645315290</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -145,6 +153,7 @@
     <MESSAGE value="update gitignonre to accept dist with css style and js script" />
     <MESSAGE value="add build and eventStream in app.py" />
     <MESSAGE value="app finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="app finished" />
+    <MESSAGE value="workspace" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace" />
   </component>
 </project>
